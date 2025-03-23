@@ -12,7 +12,8 @@ This project scrapes IMDb movie data for 2024 using **Selenium** and creates int
 - Selenium  
 - Pandas  
 - Streamlit  
-- MySQL  
+- MySQL
+- Seaborn
 
 ▶️ How to Run  
 1. **Clone the repository:**  
